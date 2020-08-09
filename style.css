@@ -1,0 +1,30 @@
+body {
+    background-image: url(https://lh3.googleusercontent.com/proxy/mYe8JqtkuPlSR1KITRn2xt7ZH-32L_i-AEYZfKcYoPz08SRrnlpbSgw-PPf8-kLOXL9QLe5LGKb0NFBNuA);
+    background-size: cover;
+    background-attachment: fixed;
+}
+.active{
+    background-color: rgb(12, 81, 231);
+    color: rgb(255, 255, 255);
+} 
+.card-text {
+    cursor: pointer;
+    padding: 5px 10px;
+}
+.Result{
+    align-items: center;
+}
+.heading{
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.interface {
+    margin-top: 220px;
+
+}
+
+.interface p{
+    text-align: center;
+}
